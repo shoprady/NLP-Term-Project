@@ -26,7 +26,7 @@ NLP-Term-Project/
 You can download files for KB in [here](https://drive.google.com/drive/folders/1T5AQNJeV1h1Nt_Sxra0-m3qmAX9Kuzvh).
 
 ## APIs used
-Our team used APIs from <a href="https://www.upstage.ai/">Upstage</a>
+We used APIs from <a href="https://www.upstage.ai/">Upstage</a>.
 
 - `solar-1-mini-chat`
   - LLM of Upstage
