@@ -23,7 +23,7 @@ You have to download files for KB.
 
 ## APIs used
 Our team used APIs from <a href="https://www.upstage.ai/">Upstage</a>
-### Solar Mini
+### solar-1-mini-chat
 LLM of Upstage
 ### embedding-passage
 Embedding model of Upstage
